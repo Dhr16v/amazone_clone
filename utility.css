@@ -1,0 +1,12 @@
+.color{
+    color: white;
+}
+
+.color:hover{
+    color: orange;
+}
+
+a:hover{
+    color: orange;
+
+}
